@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="./icon.png" alt="Logo" width="200" height="200">
+  <img src="./icon.png" alt="Logo" width="400" height="400">
 </p>
 
 <div align="center">
   <h3>BloxWin</h3>
-  A tool for analyzing data patterns in browser-based games.
 </div>
 
 <p align="center">

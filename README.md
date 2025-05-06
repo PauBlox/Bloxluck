@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./icon.png" alt="Logo" width="400" height="400">
+  <img src="./icon.png" alt="Logo" width="300" height="300">
 </p>
 
 <div align="center">
-  <h3>BloxWin</h3>
+  <h3>Bloxluck Winner</h3>
 </div>
 
 <p align="center">
